@@ -70,9 +70,9 @@
         "Created from the ground up with the WordPress platform.",
         "Implemented a live Facebook feed and photo gallery."
       ],
-      "company": "Young Guns Hunt Club (Remote)",
+      "company": "Young Guns Hunt Club",
       "position": "Contract Web Developer",
-      "location": "Bel Alton, Maryland",
+      "location": "Bel Alton, Maryland (Remote)",
       "startDate": "June 2017",
       "endDate": "August 2019"
     }
@@ -80,15 +80,30 @@
   "skills": [
     {
       "level": "",
-      "keywords": ["C#", "JavaScript", "TypeScript", "HTML", "CSS", "SCSS"],
+      "keywords": [
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SCSS"
+      ],
       "name": "Languages (Strong)"
     },
     {
-      "keywords": ["Java", "Python", "SQL"],
+      "keywords": [
+        "Java",
+        "Python",
+        "SQL"
+      ],
       "name": "Languages (Familiar)"
     },
     {
-      "keywords": ["React", "NextJS", "Bootstrap"],
+      "keywords": [
+        "React",
+        "NextJS",
+        "Bootstrap"
+      ],
       "name": "Frameworks"
     },
     {
@@ -104,7 +119,10 @@
   ],
   "projects": [
     {
-      "keywords": ["TypeScript", "JavaScript"],
+      "keywords": [
+        "TypeScript",
+        "JavaScript"
+      ],
       "name": "clutchd/ui",
       "description": "A React component library built for Vercel, designed by Clutchd.",
       "url": "https://github.com/clutchd/ui"
