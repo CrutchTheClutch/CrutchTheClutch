@@ -1,0 +1,136 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards"
+  },
+  "basics": {
+    "name": "William Crutchfield",
+    "email": "william.r.crutchfield@gmail.com",
+    "phone": "2408183502",
+    "website": "https://github.com/CrutchTheClutch",
+    "location": {
+      "address": "La Plata, Maryland"
+    }
+  },
+  "education": [
+    {
+      "area": "Computer Science",
+      "studyType": "BS",
+      "endDate": "May 2019",
+      "gpa": "3.9",
+      "institution": "University of Maryland University College",
+      "location": "Adelphi, Maryland",
+      "startDate": "Sep 2015"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Supporting the Surface Training Advanced Virtual Environment Combat Systems (STAVE-CS) Virtual Maintenance Trainer (VMT) projects, a collection of Unity-based virtual world maintenance trainers.",
+        "Designing and developing the Operational Readiness Test System (ORTS) for the STAVE-CS VMT projects.  Leveraging real-world big data to dynamically construct a virtual ORTS based on the appropriate STAVE-CS VMT project.",
+        "Lead a small team of developers as well as manage a business relationship with Lockheed Martin engineers to assist with the development of ORTS for STAVE-CS VMT projects",
+        "Key developer for an internal group of assemblies that increase the overall stability and development speed across all STAVE-CS VMT projects."
+      ],
+      "position": "Software Engineer I",
+      "location": "Dahlgren, Virginia (Remote)",
+      "startDate": "February 2020",
+      "endDate": "Present",
+      "company": "Tech Wizards, Inc."
+    },
+    {
+      "highlights": [
+        "Developed, optimized and redesigned their existing WordPress website which lead to an increase in client acquisition (https://www.masterswoodworkinginc.com/).",
+        "Currently undergoing a complete rework of the existing website with NextJS and Vercel (https://dev.masterswoodworkinginc.com/)."
+      ],
+      "position": "Contract Web Developer",
+      "location": "Half Moon Bay, California (Remote)",
+      "startDate": "September 2017",
+      "endDate": "Present",
+      "company": "Masters Woodworking, Inc."
+    },
+    {
+      "highlights": [
+        "Designed, developed, and deployed the company’s website (https://www.citymechanical.com/).",
+        "Website developed with NextJS and Vercel (https://github.com/city-mechanical/city-mechanical-website)",
+        "Developed tools to optimize day to day operations and for field and office employees"
+      ],
+      "company": "City Mechanical, Inc.",
+      "position": "Web Developer / IT Manager",
+      "location": "Hercules, California (Remote)",
+      "startDate": "September 2016",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Designed, developed, and deployed the non-profit organization’s website (https://yghc.org/).",
+        "Created from the ground up with the WordPress platform.",
+        "Implemented a live Facebook feed and photo gallery."
+      ],
+      "company": "Young Guns Hunt Club (Remote)",
+      "position": "Contract Web Developer",
+      "location": "Bel Alton, Maryland",
+      "startDate": "June 2017",
+      "endDate": "August 2019"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": ["C#", "JavaScript", "TypeScript", "HTML", "CSS", "SCSS"],
+      "name": "Languages (Strong)"
+    },
+    {
+      "keywords": ["Java", "Python", "SQL"],
+      "name": "Languages (Familiar)"
+    },
+    {
+      "keywords": ["React", "NextJS", "Bootstrap"],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "Visual Studio",
+        "VSCode",
+        "GitKraken",
+        "Photoshop",
+        "Ableton Live"
+      ],
+      "name": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": ["TypeScript", "JavaScript"],
+      "name": "clutchd/ui",
+      "description": "A React component library built for Vercel, designed by Clutchd.",
+      "url": "https://github.com/clutchd/ui"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2015 - Spring 2019",
+      "awarder": "University of Maryland University College",
+      "summary": "Recognized for earning a GPA of at least 3.5 in a term while completing at least 6 credits and maintained a cumulative GPA of 3.5 or higher."
+    },
+    {
+      "title": "Magna Cum Laude",
+      "date": "April 2019",
+      "awarder": "University of Maryland University College",
+      "summary": "Recognized for graduating with a cumulative GPA of 3.901-3.999."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
