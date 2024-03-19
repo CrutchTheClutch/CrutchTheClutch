@@ -11,9 +11,9 @@
     "name": "William Crutchfield",
     "email": "william.r.crutchfield@gmail.com",
     "phone": "2408183502",
-    "website": "wrc.dev",
+    "website": "https://github.com/CrutchTheClutch",
     "location": {
-      "address": "La Plata, Maryland"
+      "address": "Santa Rosa, California"
     }
   },
   "education": [
@@ -30,15 +30,27 @@
   "work": [
     {
       "highlights": [
+        "Developed internal company tooling saving hours per week per employee.",
+        "Streamlined all hardware lifecycles for a better managed, cost effective, IT strategy.",
+        "Cut inefficiencies in current IT operations that saved the company tens of thousands of dollars."
+      ],
+      "endDate": "Present",
+      "company": "City Mechanical, Inc.",
+      "position": "IT Manager",
+      "location": "Hercules, California",
+      "startDate": "November 2022"
+    },
+    {
+      "highlights": [
         "Supported the Surface Training Advanced Virtual Environment Combat Systems (STAVE-CS) Virtual Maintenance Trainer (VMT) projects, a collection of Unity-based virtual world maintenance trainers.",
         "Designed and developed the Operational Readiness Test System (ORTS) for the STAVE-CS VMT projects.  Leveraged real-world big data to dynamically construct a virtual ORTS instance based on the appropriate STAVE-CS VMT project.",
         "Led a small team of developers and managed a business relationship with Lockheed Martin engineers to assist with the development of ORTS for the STAVE-CS VMT projects.",
         "Key developer for an internal group of assemblies that increased the overall stability and development speed across all STAVE-CS VMT projects."
       ],
-      "position": "Software Engineer I",
-      "location": "Dahlgren, Virginia (Remote)",
+      "endDate": "November 2022",
       "startDate": "February 2020",
-      "endDate": "Present",
+      "location": "Dahlgren, Virginia (Remote)",
+      "position": "Software Engineer I",
       "company": "Tech Wizards, Inc."
     },
     {
@@ -47,10 +59,10 @@
         "Developed internal form system and API to improve day-to-day operations for field and office employees.",
         "Improved overall satisfaction for customers and employees, leading to an increase in revenue and operational efficiency."
       ],
-      "position": "Software Engineer",
-      "location": "Hercules, California (Remote)",
+      "endDate": "November 2022",
       "startDate": "September 2016",
-      "endDate": "Present",
+      "location": "Hercules, California (Remote)",
+      "position": "Software Engineer",
       "company": "City Mechanical, Inc."
     },
     {
@@ -58,22 +70,11 @@
         "Re-designed and developed their current website leading to an increase in customer acquisition.",
         "Optimized performance of the overall website - vastly improving load times."
       ],
-      "company": "Masters Woodworking, Inc.",
-      "position": "Freelance Web Developer",
-      "location": "Half Moon Bay, California (Remote)",
+      "endDate": "June 2021",
       "startDate": "September 2017",
-      "endDate": "June 2021"
-    },
-    {
-      "highlights": [
-        "Designed, developed, and deployed the non-profit organization’s website.",
-        "Developed and integrated a Facebook newsfeed and photo gallery, keeping website content updated in real-time."
-      ],
-      "company": "Young Guns Hunt Club",
+      "location": "Half Moon Bay, California (Remote)",
       "position": "Freelance Web Developer",
-      "location": "Bel Alton, Maryland (Remote)",
-      "startDate": "June 2017",
-      "endDate": "August 2019"
+      "company": "Masters Woodworking, Inc."
     }
   ],
   "skills": [
@@ -82,10 +83,7 @@
       "keywords": [
         "C#",
         "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "SCSS"
+        "TypeScript"
       ],
       "name": "Languages (Strong)"
     },
@@ -99,8 +97,7 @@
     {
       "keywords": [
         "React",
-        "NextJS",
-        "Serverless"
+        "NextJS"
       ],
       "name": "Frameworks"
     },
