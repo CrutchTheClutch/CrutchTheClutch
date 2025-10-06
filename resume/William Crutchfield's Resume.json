@@ -30,9 +30,9 @@
   "work": [
     {
       "highlights": [
-        "Developed internal company tooling saving hours per week per employee.",
-        "Streamlined all hardware lifecycles for a better managed, cost effective, IT strategy.",
-        "Cut inefficiencies in current IT operations that saved the company tens of thousands of dollars."
+        "Developed a custom ETL pipeline for Sage 300 CRE for internal migration to BuildOps.",
+        "Developed internal form workflows that save hundreds of hours per month.",
+        "Cut inefficiencies in IT operations that saved the company tens of thousands of dollars per year."
       ],
       "endDate": "Present",
       "company": "City Mechanical, Inc.",
@@ -42,10 +42,10 @@
     },
     {
       "highlights": [
-        "Supported the Surface Training Advanced Virtual Environment Combat Systems (STAVE-CS) Virtual Maintenance Trainer (VMT) projects, a collection of Unity-based virtual world maintenance trainers.",
-        "Designed and developed the Operational Readiness Test System (ORTS) for the STAVE-CS VMT projects.  Leveraged real-world big data to dynamically construct a virtual ORTS instance based on the appropriate STAVE-CS VMT project.",
-        "Led a small team of developers and managed a business relationship with Lockheed Martin engineers to assist with the development of ORTS for the STAVE-CS VMT projects.",
-        "Key developer for an internal group of assemblies that increased the overall stability and development speed across all STAVE-CS VMT projects."
+        "Supported the Virtual Maintenance Trainer (VMT) projects, a collection of Unity-based virtual world maintenance trainers.",
+        "Designed and developed the Operational Readiness Test System (ORTS) for the VMT projects.  Leveraged real-world big data to dynamically construct a virtual ORTS instance based on the relevant VMT project.",
+        "Led a small team of developers and managed a business relationship with Lockheed Martin engineers to assist with the development of ORTS for the VMT projects.",
+        "Key developer for an internal group of assemblies that increased the overall stability and development speed across all VMT projects."
       ],
       "endDate": "November 2022",
       "startDate": "February 2020",
@@ -55,26 +55,27 @@
     },
     {
       "highlights": [
-        "Designed, developed, and deployed the company’s website.",
-        "Developed internal form system and API to improve day-to-day operations for field and office employees.",
-        "Improved overall satisfaction for customers and employees, leading to an increase in revenue and operational efficiency."
+        "Networked with local businesses to develop small clientele for web development work.",
+        "Redesigned www.masterswoodworkinginc.com leading to an increase in customer acquisition.",
+        "Developed contact form workflow for www.citymechanical.com that improved turnaround for new customers."
       ],
-      "endDate": "November 2022",
-      "startDate": "September 2016",
-      "location": "Hercules, California (Remote)",
-      "position": "Software Engineer",
-      "company": "City Mechanical, Inc."
+      "company": "Self Employed",
+      "position": "Freelance Web Developer",
+      "location": "Remote",
+      "startDate": "April 2017",
+      "endDate": "Present"
     },
     {
       "highlights": [
-        "Re-designed and developed their current website leading to an increase in customer acquisition.",
-        "Optimized performance of the overall website - vastly improving load times."
+        "Ran live recording sessions recording local artists and bands.",
+        "In-house Abelton Live expert for music production, taught lessons on the software.",
+        "Produced various sound cues that ended up on the shows like Venom Hunters on Discovery Channel."
       ],
-      "endDate": "June 2021",
-      "startDate": "September 2017",
-      "location": "Half Moon Bay, California (Remote)",
-      "position": "Freelance Web Developer",
-      "company": "Masters Woodworking, Inc."
+      "company": "Abstract Recording Studios",
+      "position": "Audio Engineer",
+      "location": "Glendale, CA",
+      "startDate": "January 2015",
+      "endDate": "April 2017"
     }
   ],
   "skills": [
@@ -82,13 +83,13 @@
       "level": "",
       "keywords": [
         "C#",
-        "JavaScript",
-        "TypeScript"
+        "Typescript"
       ],
       "name": "Languages (Strong)"
     },
     {
       "keywords": [
+        "Go",
         "Java",
         "SQL"
       ],
@@ -97,30 +98,34 @@
     {
       "keywords": [
         "React",
-        "NextJS"
+        "NextJS",
+        "Tailwind"
       ],
       "name": "Frameworks"
-    },
-    {
-      "keywords": [
-        "Visual Studio",
-        "VSCode",
-        "GitKraken",
-        "Photoshop",
-        "Ableton Live"
-      ],
-      "name": "Tools"
     }
   ],
   "projects": [
     {
       "keywords": [
         "TypeScript",
-        "JavaScript"
+        "NextJS",
+        "Stripe",
+        "Inno Setup Compiler"
       ],
-      "name": "clutchd/ui",
-      "description": "A React component library built for Vercel, designed by Clutchd.",
-      "url": "https://github.com/clutchd/ui"
+      "name": "icandrivers",
+      "description": "A custom driver solution to allow the Holley Tuning Software to run on ARM-based devices.",
+      "url": "https://www.icandrivers.com/"
+    },
+    {
+      "keywords": [
+        "TypeScript",
+        "NextJS",
+        "Stripe",
+        "Convex"
+      ],
+      "name": "formbro",
+      "url": "https://www.formbro.com/",
+      "description": "A form platform intended to replace legacy providers with a easy way for non-technical businesses to leverage form workflows."
     }
   ],
   "awards": [
@@ -140,10 +145,10 @@
   "sections": [
     "templates",
     "profile",
+    "education",
     "work",
     "skills",
     "projects",
-    "education",
     "awards"
   ]
 }
